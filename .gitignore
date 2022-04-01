@@ -1,0 +1,13 @@
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+*.so
+
+# Ipython checkpoints
+/.ipynb_checkpoints/
+/pyOrbfit/.ipynb_checkpoints/
+
+/build/
+/pyOrbfit/__pycache__/
